@@ -8,3 +8,13 @@ c:\users\z777ik\documents\visual studio 2013\Projects\SQLSimpleExercise\SQLSimpl
 c:\users\z777ik\documents\visual studio 2013\Projects\SQLSimpleExercise\SQLSimpleExercise\obj\Debug\SQLSimpleExercise.exe
 c:\users\z777ik\documents\visual studio 2013\Projects\SQLSimpleExercise\SQLSimpleExercise\obj\Debug\SQLSimpleExercise.pdb
 c:\users\z777ik\documents\visual studio 2013\Projects\SQLSimpleExercise\SQLSimpleExercise\bin\Debug\MySql.Data.dll
+C:\GitHubRepositories\SQLSimpleExercise\SQLSimpleExercise\bin\Debug\SQLSimpleExercise.exe.config
+C:\GitHubRepositories\SQLSimpleExercise\SQLSimpleExercise\obj\Debug\SQLSimpleExercise.exe
+C:\GitHubRepositories\SQLSimpleExercise\SQLSimpleExercise\obj\Debug\SQLSimpleExercise.pdb
+C:\GitHubRepositories\SQLSimpleExercise\SQLSimpleExercise\bin\Debug\SQLSimpleExercise.exe
+C:\GitHubRepositories\SQLSimpleExercise\SQLSimpleExercise\bin\Debug\SQLSimpleExercise.pdb
+C:\GitHubRepositories\SQLSimpleExercise\SQLSimpleExercise\bin\Debug\MySql.Data.dll
+C:\GitHubRepositories\SQLSimpleExercise\SQLSimpleExercise\obj\Debug\SQLSimpleExercise.csprojResolveAssemblyReference.cache
+C:\GitHubRepositories\SQLSimpleExercise\SQLSimpleExercise\obj\Debug\SQLSimpleExercise.Form1.resources
+C:\GitHubRepositories\SQLSimpleExercise\SQLSimpleExercise\obj\Debug\SQLSimpleExercise.Properties.Resources.resources
+C:\GitHubRepositories\SQLSimpleExercise\SQLSimpleExercise\obj\Debug\SQLSimpleExercise.csproj.GenerateResource.Cache
