@@ -1,0 +1,10 @@
+c:\users\z777ik\documents\visual studio 2013\Projects\SQLSimpleExercise\SQLSimpleExercise\bin\Debug\SQLSimpleExercise.exe.config
+c:\users\z777ik\documents\visual studio 2013\Projects\SQLSimpleExercise\SQLSimpleExercise\obj\Debug\SQLSimpleExercise.csprojResolveAssemblyReference.cache
+c:\users\z777ik\documents\visual studio 2013\Projects\SQLSimpleExercise\SQLSimpleExercise\obj\Debug\SQLSimpleExercise.Form1.resources
+c:\users\z777ik\documents\visual studio 2013\Projects\SQLSimpleExercise\SQLSimpleExercise\obj\Debug\SQLSimpleExercise.Properties.Resources.resources
+c:\users\z777ik\documents\visual studio 2013\Projects\SQLSimpleExercise\SQLSimpleExercise\obj\Debug\SQLSimpleExercise.csproj.GenerateResource.Cache
+c:\users\z777ik\documents\visual studio 2013\Projects\SQLSimpleExercise\SQLSimpleExercise\bin\Debug\SQLSimpleExercise.exe
+c:\users\z777ik\documents\visual studio 2013\Projects\SQLSimpleExercise\SQLSimpleExercise\bin\Debug\SQLSimpleExercise.pdb
+c:\users\z777ik\documents\visual studio 2013\Projects\SQLSimpleExercise\SQLSimpleExercise\obj\Debug\SQLSimpleExercise.exe
+c:\users\z777ik\documents\visual studio 2013\Projects\SQLSimpleExercise\SQLSimpleExercise\obj\Debug\SQLSimpleExercise.pdb
+c:\users\z777ik\documents\visual studio 2013\Projects\SQLSimpleExercise\SQLSimpleExercise\bin\Debug\MySql.Data.dll
